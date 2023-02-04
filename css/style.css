@@ -243,7 +243,6 @@ body {
   padding: 0 10px;
   font-family: "Poppins", sans-serif;
   border: 1px var(--gray-color) solid;
-  color: var(--gray-color);
   border-radius: 4px;
 }
 .footer .container .contact-form .input-text-area {
@@ -257,7 +256,6 @@ body {
   height: 149px;
   padding: 0 10px;
   border: 1px var(--gray-color) solid;
-  color: var(--gray-color);
   border-radius: 4px;
   text-align: end;
 }
